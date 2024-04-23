@@ -1,0 +1,33 @@
+{
+  "name": "mllemango.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mllemango/mllemango.github.io.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mllemango/mllemango.github.io/issues"
+  },
+  "homepage": "https://github.com/mllemango/mllemango.github.io#readme",
+  "dependencies": {
+    "@remix-run/node": "^2.8.1",
+    "@remix-run/react": "^2.8.1",
+    "@remix-run/serve": "^2.8.1",
+    "isbot": "^4.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@remix-run/dev": "^2.8.1",
+    "vite": "^5.2.10"
+  }
+}
