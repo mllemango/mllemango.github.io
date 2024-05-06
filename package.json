@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "remix build",
-    "dev": "remix dev"
+    "build": "remix vite:build",
+    "dev": "npx remix vite:dev"
   },
   "repository": {
     "type": "git",
